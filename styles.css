@@ -1,0 +1,50 @@
+body {
+    background-color: #fff8e1; /* Light yellow background */
+    text-align: center;
+    font-family: "Cookie", cursive; /* Use a cookie-themed font */
+    font-size: 24px;
+    color: #58391e; /* Brown text color */
+}
+
+.cookie-container {
+    margin: 20px;
+}
+
+#cookie {
+    width: 200px;
+    cursor: pointer;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    background-color: #de9536; /* Brown button background */
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c48d30; /* Darker brown button background on hover */
+}
+
+/* Style the building buttons */
+.building-btn {
+    background-color: #b0b0b0; /* Gray button background for buildings */
+    color: #333;
+}
+
+.building-btn:hover {
+    background-color: #999; /* Darker gray button background on hover */
+}
+
+/* Style the temple button */
+#buy-temple {
+    background-color: #ffeb3b; /* Yellow button background for temple */
+    color: #000;
+}
+
+#buy-temple:hover {
+    background-color: #fbc02d; /* Darker yellow button background on hover */
+}
